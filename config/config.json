@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "admin_postgres",
+    "password": "admin_password",
+    "database": "db_biblioteca",
+    "host": "172.17.0.3",
+    "dialect": "postgres"
+  }
+}
